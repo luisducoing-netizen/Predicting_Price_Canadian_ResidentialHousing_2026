@@ -50,10 +50,12 @@ The project compares two main approaches: **Multiple Linear Regression (MLR)** a
     python Group_2_Final_Project_RandomForest.py
     ```
 
-## 👤 Author
-**Luis Ducoing**
-*   GitHub: [@luisducoing-netizen](https://github.com/luisducoing-netizen)
-*   *Project developed for the BUSI 651 course.*
-
+## 👥 Contributors 
+This project was developed as part of the **BUSI 651** course by:
+*   **Rasadokht Ostadagha** 
+*   **Matheus Fontanella**
+*   **Maria Rayane Chagas Yamamoto** 
+*   **Luis Ducoing** 
+*   **Fabio Sueto** 
 ---
 ⭐ *If you find this project useful, feel free to give it a star!*
